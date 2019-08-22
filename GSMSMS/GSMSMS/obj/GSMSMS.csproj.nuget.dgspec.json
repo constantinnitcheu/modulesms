@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cons\\Documents\\Visual Studio 2019\\GSMSMS\\GSMSMS\\GSMSMS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cons\\Documents\\Visual Studio 2019\\GSMSMS\\GSMSMS\\GSMSMS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cons\\Documents\\Visual Studio 2019\\GSMSMS\\GSMSMS\\GSMSMS.csproj",
+        "projectName": "GSMSMS",
+        "projectPath": "C:\\Users\\cons\\Documents\\Visual Studio 2019\\GSMSMS\\GSMSMS\\GSMSMS.csproj",
+        "packagesPath": "C:\\Users\\cons\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cons\\Documents\\Visual Studio 2019\\GSMSMS\\GSMSMS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cons\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Management": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
