@@ -1,0 +1,11 @@
+C:\Users\cons\Documents\Visual Studio 2019\GSMSMS\GSMSMS\bin\Debug\netcoreapp2.1\GSMSMS.deps.json
+C:\Users\cons\Documents\Visual Studio 2019\GSMSMS\GSMSMS\bin\Debug\netcoreapp2.1\GSMSMS.runtimeconfig.json
+C:\Users\cons\Documents\Visual Studio 2019\GSMSMS\GSMSMS\bin\Debug\netcoreapp2.1\GSMSMS.runtimeconfig.dev.json
+C:\Users\cons\Documents\Visual Studio 2019\GSMSMS\GSMSMS\bin\Debug\netcoreapp2.1\GSMSMS.dll
+C:\Users\cons\Documents\Visual Studio 2019\GSMSMS\GSMSMS\obj\Debug\netcoreapp2.1\GSMSMS.csprojAssemblyReference.cache
+C:\Users\cons\Documents\Visual Studio 2019\GSMSMS\GSMSMS\obj\Debug\netcoreapp2.1\GSMSMS.csproj.CoreCompileInputs.cache
+C:\Users\cons\Documents\Visual Studio 2019\GSMSMS\GSMSMS\obj\Debug\netcoreapp2.1\GSMSMS.AssemblyInfoInputs.cache
+C:\Users\cons\Documents\Visual Studio 2019\GSMSMS\GSMSMS\obj\Debug\netcoreapp2.1\GSMSMS.AssemblyInfo.cs
+C:\Users\cons\Documents\Visual Studio 2019\GSMSMS\GSMSMS\bin\Debug\netcoreapp2.1\GSMSMS.pdb
+C:\Users\cons\Documents\Visual Studio 2019\GSMSMS\GSMSMS\obj\Debug\netcoreapp2.1\GSMSMS.dll
+C:\Users\cons\Documents\Visual Studio 2019\GSMSMS\GSMSMS\obj\Debug\netcoreapp2.1\GSMSMS.pdb
